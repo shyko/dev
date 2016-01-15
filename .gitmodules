@@ -1,3 +1,6 @@
 [submodule "sites/all/modules/contrib/admin_menu"]
 	path = sites/all/modules/contrib/admin_menu
 	url = git://git.drupal.org/project/admin_menu.git
+[submodule "sites/all/modules/contrib/panels"]
+	path = sites/all/modules/contrib/panels
+	url = git://git.drupal.org/project/panels.git
