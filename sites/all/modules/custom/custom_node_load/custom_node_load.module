@@ -1,0 +1,10 @@
+<?php
+
+/**
+ *
+ * Implements hook_init
+ */
+function custom_node_load_init() {
+	$node = node_load(21);
+	dpm($node);
+}

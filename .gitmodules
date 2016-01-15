@@ -4,3 +4,6 @@
 [submodule "sites/all/modules/contrib/panels"]
 	path = sites/all/modules/contrib/panels
 	url = git://git.drupal.org/project/panels.git
+[submodule "sites/all/modules/contrib/devel"]
+	path = sites/all/modules/contrib/devel
+	url = git://git.drupal.org/project/devel.git
